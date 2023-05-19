@@ -1,0 +1,22 @@
+{
+  "name": "resume-server",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "feather-icons": "^4.29.0",
+    "gists": "^2.0.0",
+    "micromark": "^2.11.4",
+    "striptags": "^3.2.0"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.1"
+  }
+}
