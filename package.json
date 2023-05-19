@@ -5,7 +5,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": " esbuild lib/index.js --outfile=dist/index.js --bundle --platform=node"
   },
   "author": "",
   "license": "ISC",
