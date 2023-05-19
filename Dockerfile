@@ -1,3 +1,5 @@
+# docker run -d --expose 80 -e VIRTUAL_HOST=resume.haskoe.dk --name resume-server ${USER}/resume-server -port 80
+# http://resume.haskoe.dk/haskoe
 FROM node:lts-alpine as build
 
 WORKDIR /usr/src/app
