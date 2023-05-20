@@ -13,7 +13,7 @@
   "dependencies": {
     "commander": "^10.0.1",
     "feather-icons": "^4.29.0",
-    "gists": "^2.0.0",
+    "got": "^12.6.0",
     "micromark": "^2.11.4",
     "striptags": "^3.2.0"
   },
