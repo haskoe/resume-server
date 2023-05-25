@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@godaddy/terminus": "^4.12.0",
     "commander": "^10.0.1",
+    "express": "^4.18.2",
     "feather-icons": "^4.29.0",
     "got": "^12.6.0",
     "micromark": "^2.11.4",
